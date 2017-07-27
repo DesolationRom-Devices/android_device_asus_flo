@@ -15,6 +15,7 @@
 #
 
 $(call inherit-product-if-exists, vendor/asus/flo/flo-vendor.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
 # This device is xhdpi.  However the platform doesn't
 # currently contain all of the bitmaps at xhdpi density so

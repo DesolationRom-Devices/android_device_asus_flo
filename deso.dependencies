@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "branch": "cm-14.1"
+ }
+]
